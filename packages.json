@@ -6,5 +6,9 @@
   {
     "package": "geocomplexity",
     "url": "https://github.com/ausgis/geocomplexity"
+  },
+  {
+    "package": "geosimilarity",
+    "url": "https://github.com/ausgis/geosimilarity"
   }
 ]
