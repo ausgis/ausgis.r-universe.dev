@@ -10,5 +10,9 @@
   {
     "package": "geosimilarity",
     "url": "https://github.com/ausgis/geosimilarity"
+  },
+  {
+    "package": "SecDim",
+    "url": "https://github.com/ausgis/SecDim"
   }
 ]
