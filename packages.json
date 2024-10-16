@@ -1,9 +1,5 @@
 [
   {
-    "package": "gdverse",
-    "url": "https://github.com/ausgis/gdverse"
-  },
-  {
     "package": "geocomplexity",
     "url": "https://github.com/ausgis/geocomplexity"
   },
