@@ -10,5 +10,9 @@
   {
     "package": "SecDim",
     "url": "https://github.com/ausgis/SecDim"
+  },
+  {
+    "package": "GD",
+    "url": "https://github.com/ausgis/GD"
   }
 ]
