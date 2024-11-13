@@ -14,5 +14,9 @@
   {
     "package": "GD",
     "url": "https://github.com/ausgis/GD"
+  },
+  {
+    "package": "cisp",
+    "url": "https://github.com/ausgis/cisp"
   }
 ]
