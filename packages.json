@@ -14,5 +14,9 @@
   {
     "package": "GD",
     "url": "https://github.com/ausgis/GD"
+  },
+  {
+    "package": "localsp",
+    "url": "https://github.com/ausgis/localsp"
   }
 ]
